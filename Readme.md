@@ -1,4 +1,4 @@
-# BLOG Version 1
+# Projet BLOG afip Version 1
 Projet BLOG afip
 
 Crée en 2017, le projet BLOG a connu de nombreux changement lors de la phase d'apprentissage.
